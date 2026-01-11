@@ -1,0 +1,18 @@
+title: Watts and Weights
+description: A blog about sports, cycling, and fitness
+theme: minima
+author: gautham-surakanti
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site settings
+url: "https://gautham-surakanti.github.io"
+baseurl: "/watts-and-weights"
+
+# Social links (you can customize these)
+social:
+  github: gautham-surakanti
+
