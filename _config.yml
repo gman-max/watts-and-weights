@@ -16,3 +16,7 @@ baseurl: "/watts-and-weights"
 social:
   github: gautham-surakanti
 
+# Custom CSS
+sass:
+  style: compressed
+

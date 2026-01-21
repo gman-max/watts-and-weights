@@ -9,7 +9,7 @@ date: 2024-01-01
 
 # RESOURCES
 
-https://www.youtube.com/watch?v=IZuYcZMJh10
+- [Indoor Cycling Video](https://www.youtube.com/watch?v=IZuYcZMJh10)
 
 
 # SETUP 
@@ -34,7 +34,7 @@ This is the hour where "time dilation" usually hits.
 - Aim to eat/drink every 10 to 20 minutes rather than all at once
 
 # AIR 
-- - Use a large fan in front, but consider a rear fan to keep your back and bibs dry
+- Use a large fan in front, but consider a rear fan to keep your back and bibs dry
 - CO2 levels rise over several hours, decrease cognitive function and make the effort feel harder
 
 # DRILLS

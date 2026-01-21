@@ -1,12 +1,18 @@
 ---
-layout: home
+layout: default
 ---
 
-# Welcome to Watts and Weights
+<div class="page-content">
+  <h1>Welcome to Watts and Weights</h1>
+  
+  <p style="font-size: 1.1rem; color: #555; margin-bottom: 2rem;">
+    A blog about sports, cycling, fitness, and training.
+  </p>
 
-A blog about sports, cycling, fitness, and training.
-
-## Recent Posts
-
-Check out the latest articles and insights on indoor cycling, training strategies, and more.
+  <h2>Recent Posts</h2>
+  
+  <p style="margin-bottom: 2rem;">
+    Check out the latest articles and insights on indoor cycling, training strategies, and more.
+  </p>
+</div>
 
